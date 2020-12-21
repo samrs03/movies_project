@@ -1,0 +1,361 @@
+{
+    "movies": [
+        {
+            "adult": false,
+            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                2,
+                3
+            ],
+            "id": 299534,
+            "original_language": "en",
+            "original_title": "Avengers: Endgame",
+            "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "popularity": 193.534,
+            "poster_path": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+            "release_date": "2019-04-24",
+            "title": "Avengers: Endgame",
+            "video": false,
+            "duration_ms": 10920000,
+            "vote_average": 8.3,
+            "vote_count": 15985
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                2,
+                3
+            ],
+            "id": 299536,
+            "original_language": "en",
+            "original_title": "Avengers: Infinity War",
+            "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+            "popularity": 221.376,
+            "poster_path": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+            "release_date": "2018-04-25",
+            "title": "Avengers: Infinity War",
+            "video": false,
+            "duration_ms": 9600000,
+            "vote_average": 8.3,
+            "vote_count": 20403
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kwUQFeFXOOpgloMgZaadhzkbTI4.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                2,
+                3
+            ],
+            "id": 24428,
+            "original_language": "en",
+            "original_title": "The Avengers",
+            "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+            "popularity": 102.236,
+            "poster_path": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+            "release_date": "2012-04-25",
+            "title": "The Avengers",
+            "video": false,
+            "duration_ms": 8640000,
+            "vote_average": 7.7,
+            "vote_count": 23616
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8i6ZDk97Vyh0jHohMG4vFeFuKJh.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                2,
+                3
+            ],
+            "id": 99861,
+            "original_language": "en",
+            "original_title": "Avengers: Age of Ultron",
+            "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+            "popularity": 79.888,
+            "poster_path": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+            "release_date": "2015-04-22",
+            "title": "Avengers: Age of Ultron",
+            "video": false,
+            "duration_ms": 8520000,
+            "vote_average": 7.3,
+            "vote_count": 16940
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/l5yp73psXVRYy2ce09lD8yDuu2g.jpg",
+            "genre_ids": "Horror",
+            "movie_time": [
+                2,
+                3
+            ],
+            "id": 138843,
+            "original_language": "en",
+            "original_title": "The Conjuring",
+            "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+            "popularity": 57.103,
+            "poster_path": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+            "release_date": "2013-03-20",
+            "title": "The Conjuring",
+            "video": false,
+            "duration_ms": 6720000,
+            "vote_average": 7.5,
+            "vote_count": 7722
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4mfFtlGeInPrQVm1hpv7th02yjx.jpg",
+            "genre_ids": "Horror",
+            "movie_time": [
+                2,
+                3
+            ],
+            "id": 259693,
+            "original_language": "en",
+            "original_title": "The Conjuring 2",
+            "overview": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+            "popularity": 45.491,
+            "poster_path": "https://image.tmdb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+            "release_date": "2016-05-13",
+            "title": "The Conjuring 2",
+            "video": false,
+            "duration_ms": 8040000,
+            "vote_average": 7.2,
+            "vote_count": 5524
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tNM35gMLlS8u9CkUka0pzmW17Oi.jpg",
+            "genre_ids": "Horror",
+            "movie_time": [
+                2,
+                3
+            ],
+            "id": 423108,
+            "original_language": "en",
+            "original_title": "The Conjuring: The Devil Made Me Do It",
+            "overview": "A chilling story of terror, murder and unknown evil that shocked even experienced real-life paranormal investigators Ed and Lorraine Warren. One of the most sensational cases from their files, it starts with a fight for the soul of a young boy, then takes them beyond anything they’d ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+            "popularity": 15.748,
+            "poster_path": "https://image.tmdb.org/t/p/w500/11iMK1fvO6VLk4IMdzHyYnI7k9R.jpg",
+            "release_date": "2021-06-02",
+            "title": "The Conjuring: The Devil Made Me Do It",
+            "video": false,
+            "duration_ms": 7200000,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fgsHxz21B27hOOqQBiw9L6yWcM7.jpg",
+            "genre_ids": "Horror",
+            "movie_time": [
+                2,
+                3
+            ],
+            "id": 439079,
+            "original_language": "en",
+            "original_title": "The Nun",
+            "overview": "When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2” as the abbey becomes a horrific battleground between the living and the damned.",
+            "popularity": 52.05,
+            "poster_path": "https://image.tmdb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+            "release_date": "2018-09-05",
+            "title": "The Nun",
+            "video": false,
+            "duration_ms": 5760000,
+            "vote_average": 5.8,
+            "vote_count": 4309
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/219tPOydqv25TTf0kXwJhqTjyI3.jpg",
+            "genre_ids": "Horror",
+            "movie_time": [
+                2,
+                3
+            ],
+            "id": 351211,
+            "original_language": "en",
+            "original_title": "Blair Witch",
+            "overview": "A young man and his friends venture into the Black Hills Forest in Maryland to uncover the mystery surrounding his missing sister. Many believe her disappearance 17 years earlier is connected to the legend of the Blair Witch. At first the group is hopeful, especially when two locals act as guides through the dark and winding woods. As the night wears on, a visit from a menacing presence soon makes them realize that the legend is all too real, and more sinister than they could have ever imagined.",
+            "popularity": 17.419,
+            "poster_path": "https://image.tmdb.org/t/p/w500/chgLLNv3bMSOptaciOUPtDcAggq.jpg",
+            "release_date": "2016-09-15",
+            "title": "Blair Witch",
+            "video": false,
+            "duration_ms": 5340000,
+            "vote_average": 5.2,
+            "vote_count": 1413
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                1,
+                2
+            ],
+            "id": 671,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Philosopher's Stone",
+            "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard -- with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths -- and about the villain who's to blame.",
+            "popularity": 139.399,
+            "poster_path": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+            "release_date": "2001-11-16",
+            "title": "Harry Potter and the Philosopher's Stone",
+            "duration_ms": 9540000,
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 18988
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kT8bDEAgEYBKhRJtqM97qTw6uRW.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                1,
+                2
+            ],
+            "id": 767,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Half-Blood Prince",
+            "overview": "As Harry begins his sixth year at Hogwarts, he discovers an old book marked as 'Property of the Half-Blood Prince', and begins to learn more about Lord Voldemort's dark past.",
+            "popularity": 141.824,
+            "poster_path": "https://image.tmdb.org/t/p/w500/Ag21otqbeynZPGjEbzyr3X5Us0j.jpg",
+            "release_date": "2009-07-07",
+            "title": "Harry Potter and the Half-Blood Prince",
+            "video": false,
+            "duration_ms": 9240000,
+            "vote_average": 7.7,
+            "vote_count": 13782
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                1,
+                2
+            ],
+            "id": 674,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Goblet of Fire",
+            "overview": "Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure – but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for.",
+            "popularity": 125.692,
+            "poster_path": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+            "release_date": "2005-11-16",
+            "title": "Harry Potter and the Goblet of Fire",
+            "video": false,
+            "duration_ms": 9420000,
+            "vote_average": 7.8,
+            "vote_count": 14584
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                1,
+                2
+            ],
+            "id": 673,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Prisoner of Azkaban",
+            "overview": "Harry, Ron and Hermione return to Hogwarts for their third year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black—and turns to sympathetic Professor Lupin for help.",
+            "popularity": 122.531,
+            "poster_path": "https://image.tmdb.org/t/p/w500/v0wMKEEGaNc9evdqGYfIvoWXh24.jpg",
+            "release_date": "2004-05-31",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "duration_ms": 8520000,
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 15227
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bvRnPaai6JL7XHF4K6414DdSHro.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                1,
+                2
+            ],
+            "id": 672,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Chamber of Secrets",
+            "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
+            "popularity": 118.627,
+            "poster_path": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+            "release_date": "2002-11-13",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "video": false,
+            "duration_ms": 10440000,
+            "vote_average": 7.7,
+            "vote_count": 15503
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                1,
+                2
+            ],
+            "id": 675,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Order of the Phoenix",
+            "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students – dubbed 'Dumbledore's Army' – to defend themselves against the dark arts.",
+            "popularity": 103.896,
+            "poster_path": "https://image.tmdb.org/t/p/w500/g6n8G0xPnBVUIKKK41sNmbZB5h4.jpg",
+            "release_date": "2007-06-28",
+            "title": "Harry Potter and the Order of the Phoenix",
+            "video": false,
+            "duration_ms": 8520000,
+            "vote_average": 7.7,
+            "vote_count": 14002
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/n5A7brJCjejceZmHyujwUTVgQNC.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                1,
+                2
+            ],
+            "id": 12445,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Deathly Hallows: Part 2",
+            "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+            "popularity": 108.11,
+            "poster_path": "https://image.tmdb.org/t/p/w500/da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg",
+            "release_date": "2011-07-07",
+            "title": "Harry Potter and the Deathly Hallows: Part 2",
+            "video": false,
+            "duration_ms": 7800000,
+            "vote_average": 8.1,
+            "vote_count": 14830
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/39kg1yGt9qxPwMuG1a5ysfe3gfG.jpg",
+            "genre_ids": "Adventure",
+            "movie_time": [
+                1,
+                2
+            ],
+            "id": 12444,
+            "original_language": "en",
+            "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+            "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+            "popularity": 94.996,
+            "poster_path": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+            "release_date": "2010-10-17",
+            "title": "Harry Potter and the Deathly Hallows: Part 1",
+            "video": false,
+            "duration_ms": 8760000,
+            "vote_average": 7.8,
+            "vote_count": 13795
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "queries": {
+        "firstMoviesTablePopulation": "INSERT INTO movies_project.movies (movie_name,movie_image,movie_description,movie_duration,movie_time,movie_genre) VALUES ",
+        "populatingListView": "SELECT movie_name,movie_image,movie_id FROM movies_project.movies ORDER BY RAND() LIMIT 6",
+        "registerNewUser": "INSERT INTO movies_project.users (user_phone,user_IDCC,user_password,user_email,user_rol) VALUES (:user_phone,:user_IDCC,:user_password,:user_email,0)",
+        "login": "SELECT * FROM movies_project.users where user_IDCC=:user_IDCC",
+        "moviesList": "SELECT * FROM movies_project.movies",
+        "firstRoomsPopulation" : "INSERT INTO movies_project.rooms (room_capacity,room_type) VALUES ",
+        "makingReservation" : "INSERT INTO movies_project.reservations(user_IDCC,movie_name,movie_time,room_id) VALUES (:user_IDCC,:movie_name,:movie_time,:room_id)",
+        "searchingQuery" : "SELECT * FROM movies_project.movies where movie_genre=:query"
+    }
+}

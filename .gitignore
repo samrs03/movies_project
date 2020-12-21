@@ -1,0 +1,4 @@
+movies-backend/package-lock.json
+movies-backend/node_modules
+movies-front-end/node_modules
+movies-front-end/package-lock.json

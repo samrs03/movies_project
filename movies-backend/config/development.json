@@ -1,0 +1,11 @@
+{
+    "port": 5500,
+    "DBConfiguration": {
+        "db": "movies_project",
+        "User": "samuelr",
+        "Password": "Comfenalco6!",
+        "Host": "localhost",
+        "Dialect": "mysql"
+    },
+    "JWTSecret": "Sbo6rD3UezsD-vTx_bVpQ1sG3ceMItpnxeGuzQkiXGQ"
+}

@@ -1,0 +1,16 @@
+{
+    "rooms": [
+        {
+            "room_capacity": 30,
+            "room_type": "STANDARD"
+        },
+        {
+            "room_capacity": 20,
+            "room_type": "VIP"
+        },
+        {
+            "room_capacity": 15,
+            "room_type": "ELITE"
+        }
+    ]
+}
